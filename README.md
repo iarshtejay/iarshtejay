@@ -22,8 +22,8 @@ const  arsh = {
 }; 
 ```
 ![Arsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=iarshtejay&count_private=true&hide=prs,issues)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iarshtejay)<br>
-Meanwhile, here's a cat
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iarshtejay)
+Meanwhile, here's a cat playing bongo<br>
 ![Alt Text](https://c.tenor.com/J4XSBiMtAZMAAAAC/bongo-cat-drum.gif)
 
 # Credits
