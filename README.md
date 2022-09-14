@@ -1,5 +1,5 @@
-![Arsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=iarshtejay&count_private=true&hide=prs,issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iarshtejay)
+![Arsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=iarshtejay&count_private=true&hide=prs,issues)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iarshtejay)<br>
 
 
 ![Alt Text](https://c.tenor.com/J4XSBiMtAZMAAAAC/bongo-cat-drum.gif)
