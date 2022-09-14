@@ -2,7 +2,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iarshtejay)
 
 
-![Bongo Cat]("https://tenor.com/search/bongo+cat-gifs)
+![Bongo Cat](https://tenor.com/search/bongo+cat-gifs)](https://c.tenor.com/J4XSBiMtAZMAAAAC/bongo-cat-drum.gif)
 
 <!--
 **iarshtejay/iarshtejay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
