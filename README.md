@@ -3,21 +3,18 @@
 ``` javascript
 const  arsh = {
 	pronouns:  "He" | "Him" ,
-	languages: ["Java", "C/C++", "Javascript", "Python" ],
+	languages: ["Java", "Javascript", "COBOL" ],
 	askMeAbout: ["oop", "cloud", "web dev", "tech", "art"],
 	technologies: {
 		frontEnd: {
 			js: ["React"],
 		},
 		backEnd: {
-			js: ["Node", "Express"],
+			js: ["Node", "Express", "Spring"],
 		},
-		devOps: ["AWS", "Docker🐳", "GCP", "Jira", "GitHub"],
 		databases: ["mongo", "MySql"],
-		misc: ["OAuth", "Cloud solutions", "Blueprism", "OOP"]
+		misc: ["OAuth", "Cloud solutions", "OOP"]
 	},
-	architecture: ["Serverless Architecture", "Object oriented design"],
-	currentFocus:  "finishing a Master's degree @Dalhousie University, Canada",
 	funFact:  "In 1963 a cat went to space"
 }; 
 ```
